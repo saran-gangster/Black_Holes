@@ -15,7 +15,7 @@ the heat and pressure at the core allow them to fuse heavier elements until they
 Unlike all the elements that went before,the fusion process that creates iron
 doesn't generate any energy.Iron builds up at the center of the star
 until it reaches a critical amount and the balance between radiation and gravity is suddenly broken.\The core collapses.Within a fraction of a second,the star implodes.Moving at about the quarter of the speed of light,feeding even more mass into the core.\It's at this very moment that all the heavier elements in the universe are created,as the star dies, in a super nova explosion.
-![super nova](https://www.nasa.gov/sites/default/files/thumbnails/image/kepler-snburp-point1second-nograph-1280x720-shorter-10lossy.gif)
+![super nova](https://i.pinimg.com/originals/06/c9/69/06c9699b71489328fbceaf25161343fb.gif)
 ![super](https://i.gifer.com/7fjT.gif)
 This produces either a neutron star or if the star is massive enough,
 the entire mass of the core collapses into a black hole.
