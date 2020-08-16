@@ -5,9 +5,9 @@
 Black holes are one of the strangest things in existence.They don't seem to make any sense at all.Where do they come from...and what happens if you fall into one?\
 ![into a black hole](https://scx1.b-cdn.net/csz/news/800/2019/rotatingblac.jpg)\
 Stars are incredibly massive collections of mostly hydrogen atoms that collapsed from enormous\ gas cloud under their own gravity.In their core, nuclear fusion crushes hydrogen atoms into helium
-![nebula](https://media1.giphy.com/media/3og0INtldac8gncQO4/giphy-downsized-large.gif)
+![nebula](https://media1.giphy.com/media/3og0INtldac8gncQO4/giphy-downsized-large.gif)\
 releasing a tremendous amount of energy This energy, in the form of radiation,\
-pushes against gravity,maintaining a delicate balance between the two forces.As long as there is fusion in the core,a star remains stable enough.But for stars with way more mass then our own sun.
+pushes against gravity,maintaining a delicate balance between the two forces.As long as there is fusion in the core,a star remains stable enough.But for stars with way more mass then our own sun.\
 ![fuse](https://eandt.theiet.org/media/9623/nuclear-fusion.jpg?crop=0,0.015624999999999931,0,0&cropmode=percentage&width=640&height=480&rnd=132145715680000000)
 ![fusion](http://large.stanford.edu/courses/2011/ph241/olson1/images/f1.gif)
 the heat and pressure at the core allow them to fuse heavier elements until they reach iron.\
