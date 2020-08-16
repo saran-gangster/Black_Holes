@@ -4,7 +4,7 @@
 ![BLACK HOLES](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Black_hole_-_Messier_87_crop_max_res.jpg/260px-Black_hole_-_Messier_87_crop_max_res.jpg)\
 Black holes are one of the strangest things in existence.They don't seem to make any sense at all.Where do they come from...and what happens if you fall into one?\
 ![into a black hole](https://scx1.b-cdn.net/csz/news/800/2019/rotatingblac.jpg)\
-Stars are incredibly massive collections of mostly hydrogen atoms that collapsed from enormous\ gas cloud under their own gravity.In their core, nuclear fusion crushes hydrogen atoms into helium
+Stars are incredibly massive collections of mostly hydrogen atoms that collapsed from enormous\ gas cloud under their own gravity.In their core, nuclear fusion crushes hydrogen atoms into helium\
 ![nebula](https://media1.giphy.com/media/3og0INtldac8gncQO4/giphy-downsized-large.gif)\
 releasing a tremendous amount of energy This energy, in the form of radiation,\
 pushes against gravity,maintaining a delicate balance between the two forces.As long as there is fusion in the core,a star remains stable enough.But for stars with way more mass then our own sun.\
