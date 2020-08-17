@@ -8,20 +8,20 @@ Stars are incredibly massive collections of mostly hydrogen atoms that collapsed
 ![nebula](https://thumbs.gfycat.com/JaggedShamefulArabianoryx-size_restricted.gif)\
 releasing a tremendous amount of energy This energy, in the form of radiation,\
 pushes against gravity,maintaining a delicate balance between the two forces.As long as there is fusion in the core,a star remains stable enough.But for stars with way more mass then our own sun.\
-![fuse](https://eandt.theiet.org/media/9623/nuclear-fusion.jpg?crop=0,0.015624999999999931,0,0&cropmode=percentage&width=640&height=480&rnd=132145715680000000)
-![fusion](http://large.stanford.edu/courses/2011/ph241/olson1/images/f1.gif)
+![fuse](https://eandt.theiet.org/media/9623/nuclear-fusion.jpg?crop=0,0.015624999999999931,0,0&cropmode=percentage&width=640&height=480&rnd=132145715680000000)\
+![fusion](http://large.stanford.edu/courses/2011/ph241/olson1/images/f1.gif)\
 the heat and pressure at the core allow them to fuse heavier elements until they reach iron.\
 ![elements](https://astronomy.swin.edu.au/cms/cpg15x/albums/userpics/core-collapse1.jpg)
-Unlike all the elements that went before,the fusion process that creates iron
+Unlike all the elements that went before,the fusion process that creates iron\
 doesn't generate any energy.Iron builds up at the center of the star
-until it reaches a critical amount and the balance between radiation and gravity is suddenly broken.\The core collapses.Within a fraction of a second,the star implodes.Moving at about the quarter of the speed of light,feeding even more mass into the core.\It's at this very moment that all the heavier elements in the universe are created,as the star dies, in a super nova explosion.
+until it reaches a critical amount and the balance between radiation and gravity is suddenly broken.\The core collapses.Within a fraction of a second,the star implodes.Moving at about the quarter of the speed of light,feeding even more mass into the core.\It's at this very moment that all the heavier elements in the universe are created,as the star dies, in a super nova explosion.\
 ![super nova](https://i.pinimg.com/originals/06/c9/69/06c9699b71489328fbceaf25161343fb.gif)
-![super](https://i.gifer.com/7fjT.gif)
+![super](https://i.gifer.com/7fjT.gif)\
 This produces either a neutron star or if the star is massive enough,
-the entire mass of the core collapses into a black hole.
+the entire mass of the core collapses into a black hole.\
 ![star cycle](https://mrjonesscienceroom.weebly.com/uploads/5/7/8/5/57859897/editor/starcycle-orig_1.jpg?1513693239)
 If you looked at a black hole,what you'd really be seeing is the event horizon.Anything that crosses the event horizon\
-needs to be travelling faster than the speed of light to escape.
+needs to be travelling faster than the speed of light to escape.\
 In other words, its impossible.
 So we just see a black sphere
 reflecting nothing.\
@@ -34,8 +34,8 @@ meaning all its mass is concentrated into a single point in space,
 with no surface or volume,
 or something completely different.
 Right now, we just don't know.
-![zero](https://s33046.pcdn.co/wp-content/uploads/2019/10/sql-divide-by-zero-624x266.png)
-Its like a "dividing by zero"error.
+![zero](https://s33046.pcdn.co/wp-content/uploads/2019/10/sql-divide-by-zero-624x266.png)\
+Its like a "dividing by zero"error.\
 ![blackhole](https://qph.fs.quoracdn.net/main-qimg-023f6603e2e6c7bdbb3fd485c6ec5a22)
 By the way, black holes do not suck things up like a vacuum cleaner,
 If we were to swap the sun for an equally massive black hole,
